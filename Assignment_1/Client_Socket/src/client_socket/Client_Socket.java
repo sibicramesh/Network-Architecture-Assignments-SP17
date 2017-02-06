@@ -1,5 +1,5 @@
 
-package socket_programming;
+package client_socket;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
